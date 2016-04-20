@@ -1,6 +1,6 @@
 {
   "name": "gulp-react-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Some basic commands for creating react components from the command line.",
   "main": "gulp-react-tools.js",
   "scripts": {
