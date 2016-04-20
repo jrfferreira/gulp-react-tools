@@ -1,0 +1,28 @@
+{
+  "name": "gulp-react-tools",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulp-react-tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomjamesallen/gulp-react-tools.git"
+  },
+  "author": {
+    "email": "tomjamesallenweb@gmail.com",
+    "name": "tom allen",
+    "url": "http://tomjamesallen.co.uk"
+  },
+  "bugs": {
+    "url": "https://github.com/tomjamesallen/gulp-react-tools/issues"
+  },
+  "homepage": "https://github.com/tomjamesallen/gulp-react-tools#readme",
+  "maintainers": [
+    {
+      "name": "tomjamesallen",
+      "email": "tomjamesallenweb@gmail.com"
+    }
+  ]
+}
