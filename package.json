@@ -1,7 +1,7 @@
 {
   "name": "gulp-react-tools",
   "version": "0.1.0",
-  "description": "",
+  "description": "Some basic commands for creating react components from the command line.",
   "main": "gulp-react-tools.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +24,14 @@
       "name": "tomjamesallen",
       "email": "tomjamesallenweb@gmail.com"
     }
-  ]
+  ],
+  "dependencies": {
+    "camelcase": "^2.1.1",
+    "decamelize": "^1.2.0",
+    "object-assign": "^4.0.1",
+    "uppercamelcase": "^1.1.0"
+  },
+  "devDependencies": {
+    "yargs": "^4.6.0"
+  }
 }
